@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "authorName": "Alice Johnson",
+    "authorProfilePicture": "https://randomuser.me/api/portraits/women/44.jpg",
+    "blogCoverPicture": "https://images.unsplash.com/photo-1593642634443-44adaa06623a",
+    "blogTitle": "Exploring the Future of AI",
+    "readingTime": 5,
+    "blogDescription": "A deep dive into how artificial intelligence is shaping the world around us.",
+    "hashtags": ["#AI", "#Technology", "#Future", "#MachineLearning"]
+  },
+  {
+    "id": 2,
+    "authorName": "Brian Smith",
+    "authorProfilePicture": "https://randomuser.me/api/portraits/men/32.jpg",
+    "blogCoverPicture": "https://images.unsplash.com/photo-1587620962725-abab7fe55159",
+    "blogTitle": "Top 10 JavaScript Frameworks",
+    "readingTime": 7,
+    "blogDescription": "Discover the most popular JavaScript frameworks in 2025 and how they compare.",
+    "hashtags": ["#JavaScript", "#WebDevelopment", "#Frameworks", "#Coding"]
+  },
+  {
+    "id": 3,
+    "authorName": "Clara Evans",
+    "authorProfilePicture": "https://randomuser.me/api/portraits/women/65.jpg",
+    "blogCoverPicture": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+    "blogTitle": "Mastering CSS Grid",
+    "readingTime": 6,
+    "blogDescription": "Learn how to create complex layouts easily with CSS Grid.",
+    "hashtags": ["#CSS", "#CSSGrid", "#WebDesign", "#Frontend"]
+  },
+  {
+    "id": 4,
+    "authorName": "David Lee",
+    "authorProfilePicture": "https://randomuser.me/api/portraits/men/54.jpg",
+    "blogCoverPicture": "https://images.unsplash.com/photo-1504805572947-34fad45aed93",
+    "blogTitle": "Building Responsive Websites",
+    "readingTime": 8,
+    "blogDescription": "Techniques and tools for making your websites look great on all devices.",
+    "hashtags": ["#ResponsiveDesign", "#WebDevelopment", "#MobileFirst", "#UX"]
+  },
+  {
+    "id": 5,
+    "authorName": "Ella Martinez",
+    "authorProfilePicture": "https://randomuser.me/api/portraits/women/12.jpg",
+    "blogCoverPicture": "https://images.unsplash.com/photo-1581090700227-1e37b190418e",
+    "blogTitle": "The Power of React Hooks",
+    "readingTime": 9,
+    "blogDescription": "An in-depth guide to using hooks effectively in your React applications.",
+    "hashtags": ["#React", "#ReactHooks", "#JavaScript", "#Frontend"]
+  }
+]
